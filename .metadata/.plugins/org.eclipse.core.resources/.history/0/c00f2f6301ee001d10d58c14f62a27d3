@@ -1,0 +1,25 @@
+package principal;
+
+import java.util.Scanner;
+
+public class atividade_3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner leia = new Scanner(System.in);
+		
+		int num1=10;
+		int num2=20;
+		int resultado = num1 + num2;
+		
+		System.out.println(" Escreva 2 números e na sequencia veja a soma");
+		
+		System.out.println("Resultado é " + (num1 + num2));
+		
+		
+		
+		
+
+	}
+
+}
